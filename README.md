@@ -1,19 +1,22 @@
-Highly opinionated dotfiles
-=============================
+# Highly opinionated dotfiles
 
-# Setup
+## Setup
 
-`git clone git@github.com:akshayp/dotfiles.git ~/dotfiles`
+```sh
+$ git clone git@github.com:koulmomo/dotfiles.git ~/dotfiles
+$ cd ~/dotfiles; ./setup
+```
 
-`cd ~/dotfiles; ./setup`
+*Sensible OSX defaults*: 
+```sh
+$ cd ~; /.osx
+```
 
-*Sensible OSX defaults*: `cd ~; /.osx`
-
-#Screenshot
+## Screenshot
 
 ![Current state of Terminal](https://www.evernote.com/shard/s13/sh/6c549055-095e-480c-8eb9-c4266a75e5f7/28c7e70bf37cc8f1c9c3aba6a1dddcc3/deep/0/zsh.png)
 
-# Components Used
+## Components Used
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 * [Homebrew](http://brew.sh)
 * [Brew Cask](https://github.com/phinze/homebrew-cask)
