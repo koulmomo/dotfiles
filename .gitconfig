@@ -6,6 +6,7 @@
     excludesfile = ~/.gitignore
     pager = cat
     whitespace = space-before-tab,trailing-space
+    editor = subl -n -w
 
 [color]
 	ui = auto
