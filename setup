@@ -66,7 +66,6 @@ installcask firefox
 installcask imagealpha
 installcask imageoptim
 installcask iterm2
-installcask sublime-text
 installcask skype
 installcask the-unarchiver
 installcask vlc
